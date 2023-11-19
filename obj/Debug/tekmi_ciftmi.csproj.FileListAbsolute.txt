@@ -1,0 +1,10 @@
+C:\Users\ben\source\repos\tekmi_ciftmi\tekmi_ciftmi\bin\Debug\tekmi_ciftmi.exe.config
+C:\Users\ben\source\repos\tekmi_ciftmi\tekmi_ciftmi\bin\Debug\tekmi_ciftmi.exe
+C:\Users\ben\source\repos\tekmi_ciftmi\tekmi_ciftmi\bin\Debug\tekmi_ciftmi.pdb
+C:\Users\ben\source\repos\tekmi_ciftmi\tekmi_ciftmi\obj\Debug\tekmi_ciftmi.csproj.AssemblyReference.cache
+C:\Users\ben\source\repos\tekmi_ciftmi\tekmi_ciftmi\obj\Debug\tekmi_ciftmi.Form1.resources
+C:\Users\ben\source\repos\tekmi_ciftmi\tekmi_ciftmi\obj\Debug\tekmi_ciftmi.Properties.Resources.resources
+C:\Users\ben\source\repos\tekmi_ciftmi\tekmi_ciftmi\obj\Debug\tekmi_ciftmi.csproj.GenerateResource.cache
+C:\Users\ben\source\repos\tekmi_ciftmi\tekmi_ciftmi\obj\Debug\tekmi_ciftmi.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\tekmi_ciftmi\tekmi_ciftmi\obj\Debug\tekmi_ciftmi.exe
+C:\Users\ben\source\repos\tekmi_ciftmi\tekmi_ciftmi\obj\Debug\tekmi_ciftmi.pdb
